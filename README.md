@@ -1,3 +1,31 @@
 # KassandraMaeValmoria
-About MeI am 
-Kassandra Mae D. Valmoria, an IT student at New Era University with a focus on coding, database management, and cybersecurity. I thrive in fast-paced environments that demand critical thinking and elegant problem-solving. My approach to technology is built on a foundation of discipline and teamwork, ensuring that I remain adaptable and patient when tackling complex digital challenges.🎓 EducationBS Information TechnologyNew Era University | 2024 – Present📜 CertificationsIntroduction to Cyber Security – Foundational principles of protecting digital assets.Data Analyst with AI – Leveraging machine learning for data-driven insights.NoSQL and DBaaS 101 – Managing non-relational databases in cloud environments.HCI Fundamentals – Exploring the foundations of human-computer interaction.UI/UX Skills – Designing intuitive and user-centered digital experiences.Basic Cybersecurity Webinar – Practical insights into modern security threats.🛠️ Skill Sets💻 Programming: Java, JavaScript, HTML🗄️ Databases: IBM DB2 Cloud🧰 Tools: Eclipse, Jaspersoft Studio, Lucidchart📫 Contact Me🔗 LinkedIn: [Your Profile Link]📧 Email: valmoria.kassandra.delossantos@gmail.com
+
+### About Me
+I am **Kassandra Mae D. Valmoria**, an IT student at **New Era University**. I enjoy coding, managing databases, and learning about cybersecurity. I work well in fast-paced environments and use critical thinking to solve complex technical problems. I value discipline, teamwork, and staying patient when facing new digital challenges.
+
+---
+
+### 🎓 Education
+*   **BS Information Technology**
+    *   New Era University (2024 – Present)
+
+### 📜 Certifications
+*   **Data Analyst with AI**
+*   **NoSQL and DBaaS 101**
+*   **HCI Fundamentals**
+*   **UI/UX Skills** 
+  
+
+### 🛠️ Skill Sets
+*   **💻 Programming:** `Java`, `JavaScript`, `HTML`
+*   **🗄️ Databases:** `IBM DB2 Cloud`
+*   **🧰 Tools:** `IntelliJ IDEA`, `VSCode Studio`, `Lucidchart`
+
+---
+
+###  Contact Me
+*   **Email:** [valmoria.kassandra.delossantos@gmail.com](mailto:valmoria.kassandra.delossantos@gmail.com)
+
+---
+*“Building solutions with patience and discipline.”*
+
