@@ -10,7 +10,7 @@ I am **Kassandra Mae D. Valmoria**, an IT student at **New Era University**. I e
     *   New Era University (2024 – Present)
 
 ### 📜 Certifications
-*   **Data Analyst with AI**
+*   ** NoSQL and DBaaS 101**
 *   **NoSQL and DBaaS 101**
 *   **HCI Fundamentals**
 *   **UI/UX Skills** 
