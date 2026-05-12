@@ -1,4 +1,4 @@
-# KassandraMaeValmoria
+# Kassandra Mae Valmoria
 
 ### About Me
 I am **Kassandra Mae D. Valmoria**, an IT student at **New Era University**. I enjoy coding, managing databases, and learning about cybersecurity. I work well in fast-paced environments and use critical thinking to solve complex technical problems. I value discipline, teamwork, and staying patient when facing new digital challenges.
