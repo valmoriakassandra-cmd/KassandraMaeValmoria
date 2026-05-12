@@ -10,8 +10,7 @@ I am **Kassandra Mae D. Valmoria**, an IT student at **New Era University**. I e
     *   New Era University (2024 – Present)
 
 ### 📜 Certifications
-*   **[NoSQL and DBaaS 101](https://www.mindluster.com/certified/check/7bf5e93f)**
-*   **[HCI Fundamentals](https://www.mindluster.com/certified/check/9c11b6a3)**
+*   **[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/a45ddec2df9d4bd6b25e762402532fa3)**
 *   **[Data Analyst with AI](https://www.sololearn.com/en/certificates/CC-1PNEBUCQ)**
 *   **[UI/UX Skills](https://www.mindluster.com/certified/check/7bf5e93f)** 
   
@@ -24,6 +23,7 @@ I am **Kassandra Mae D. Valmoria**, an IT student at **New Era University**. I e
 ---
 
 ###  Contact Me
+- 🔗 LinkedIn: *https://www.linkedin.com/in/kassandra-d-valmoria-a4962340a/* 
 *   **Email:** [valmoria.kassandra.delossantos@gmail.com](mailto:valmoria.kassandra.delossantos@gmail.com)
 
 ---
